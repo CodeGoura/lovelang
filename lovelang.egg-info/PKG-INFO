@@ -8,8 +8,10 @@ Author-email: Gourahari <codegoura+lovelang@gmail.com>
 License: MIT
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
+License-File: LICENSE
 Dynamic: author
 Dynamic: home-page
+Dynamic: license-file
 Dynamic: requires-python
 
 # ❤️ LoveLang
