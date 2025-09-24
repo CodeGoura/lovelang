@@ -1,0 +1,13 @@
+i = 0;
+jabtak (i < 6) {
+    i = i + 1;
+    agartum (i == 3) {
+        bolo("skip 3");
+        thodaroko;
+    }
+    bolo("count:", i);
+    agartum (i == 5) {
+        bolo("we stop now");
+        miltehe;
+    }
+}

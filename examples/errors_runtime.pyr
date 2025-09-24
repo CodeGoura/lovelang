@@ -1,0 +1,8 @@
+# errors_runtime.pyr
+bolo("try undefined var:");
+bolo(x_not_defined);
+
+bolo("division test:");
+a = 10;
+b = 0;
+bolo("div result:", a / b);

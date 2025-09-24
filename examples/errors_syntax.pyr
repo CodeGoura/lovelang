@@ -1,0 +1,6 @@
+# errors_syntax.pyr
+bolo("start");
+# Missing closing brace for agartum -> syntax error
+agartum (1 == 1) {
+    bolo("ok");
+# nehito { bolo("not used"); }   <-- missing closing brace earlier causes syntax error

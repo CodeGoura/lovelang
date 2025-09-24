@@ -1,0 +1,8 @@
+x = 10;
+agartum (x > 5) {
+    bolo("x bada hai");
+} nehito {
+    bolo("x chhota hai");
+}
+
+bolo("Truth test:", lovetrue, lovefalse);

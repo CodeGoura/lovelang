@@ -1,0 +1,4 @@
+# hello.pyr
+bolo("Welcome to LoveLang!"); 
+name = suno("Apna naam batao: ");
+bolo("Hi", name, " nice to meet you!");
