@@ -18,15 +18,13 @@ It is inspired by BhaiLang but created with its own flavor of **pyaar (love)** â
 
 ## ðŸš€ Quick Start
 
-### 1. Clone the repo
+## 1. Install from PyPI (Global)
 ```bash
-git clone https://github.com/CodeGoura/lovelang.git
-cd lovelang
+pip install lovelang
 ```
-
 ### 2. Run a LoveLang file
 ```bash
-python lovelang.py examples/hello.pyr
+lovelang examples/hello.pyr
 ```
 
 ### 3. File extension
